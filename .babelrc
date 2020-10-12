@@ -1,0 +1,15 @@
+{
+  "presets": [
+    ["env", { "modules": false }]
+  ],
+  "plugins": [
+    "transform-vue-jsx",
+    [
+      "component",
+      {
+        "libraryName": "element-ui",
+        "styleLibraryName": "theme-chalk"
+      }
+    ]
+  ]
+}

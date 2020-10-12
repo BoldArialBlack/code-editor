@@ -1,0 +1,30 @@
+{
+  "id": "2123227",
+  "name": "test",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3925353",
+      "name": "close",
+      "font_class": "close",
+      "unicode": "e9a7",
+      "unicode_decimal": 59815
+    },
+    {
+      "icon_id": "14470267",
+      "name": "fangda",
+      "font_class": "fangda",
+      "unicode": "f179",
+      "unicode_decimal": 61817
+    },
+    {
+      "icon_id": "14470372",
+      "name": "suoxiao",
+      "font_class": "suoxiao",
+      "unicode": "f17b",
+      "unicode_decimal": 61819
+    }
+  ]
+}
