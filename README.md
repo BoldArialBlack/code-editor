@@ -5,14 +5,14 @@
 ## Install
 
 ```bash
-npm install code-editor -S
+npm install @boldarialblack/code-editor -S
 ```
 
 ## Quick Start
 
 ```bash
 import Vue from 'vue'
-import CodeEditor from 'code-editor'
+import CodeEditor from '@boldarialblack/code-editor'
 # Vue.component('code-editor', CodeEditor) # 可以指定组件名称
 Vue.use(CodeEditor) # 组件名称 `code-editor`
 ```

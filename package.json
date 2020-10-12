@@ -1,5 +1,5 @@
 {
-  "name": "code-editor",
+  "name": "@boldarialblack/code-editor",
   "description": "一个默认支持美化、高亮、报错、格式化、注释、补全、缩放的代码编辑器(sql为默认语言)，基于Vue和CodeMirror",
   "version": "0.0.1",
   "author": "BoldArialBlack",
